@@ -1,0 +1,182 @@
+
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+
+Joelle Issa
+
+Business analyst | Front-End Developer
+
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+
+INFO: 
+
+    Email Address: joelle.ji.issa@gmail.com
+    Phone Number: +961 71 088 492
+    Address: Beirut, Lebanon
+
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+
+SKILLS:
+
+    Jira, Agile, Scrum,Git, Trello, Kanban
+    Web dev: HTML, CSS, Angular, JavaScript
+    SQL, Object Oriented (Java), R, Apex, Python
+    Tableau, QlikView, PowerBI, Salesforce, Informatica PowerCenter
+    MS Office (Dynamics, Visio, Project, Excel, PowerPoint…)
+
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+
+WORK EXPERIENCE:
+
+    Business Analyst
+    Montymobile
+    04/2022 - Present
+    Beirut, Lebanon
+    Monty Mobile is a VAS & telecom solutions provider , working to facilitate the international flow of Voice and 
+    SMS across global markets.
+
+    Achievements/Tasks
+        - Perform feasibility analysis, scope projects, and works with the project management to prioritize deliverables.
+        - Prepare & document business processes and software requirements for technology initiative.
+        - Create detailed business requirement document (BRD).
+        - Collaborate with business partners to help identify, analyze and resolve inconsistencies and redundancies.
+        - Work with component testing staff to ensure that deliverables meet business requirements.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+    Solution Architect
+    InMobiles
+    09/2021 - 03/2022
+    Beirut, Lebanon
+    InMobiles is a global Information Communications Technology provider, operating since 2006 in the MiddleEast, Africa, 
+    Europe, Asia and the Americas, developing and providing world-class innovative solutions.
+    
+    Achievements/Tasks
+        - Create and lead the process of integrating IT systems for them to meet
+        an organization’s requirements.
+        - Conduct a system architecture evaluation and collaborates with project management and IT development teams to improve the architecture.
+        - Collaborate with various stakeholders to determine software requirements.
+        - Create low-level product specifications and design documents.
+        - Provide the development team with architectural blueprints to follow.
+        - Update software solutions as required.
+        - Create and update solution documentation.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+    Business Analyst
+    Brainnest
+    08/2021 - 09/2021
+    Germany
+    Brainnest provides comprehensible analyses of complex economic issues to assist in understanding the issues and opportunities
+    that companies face. The Economic Consulting practice is involved in a wide range of engagements related to economics, finance,
+    and accounting. Providing critical insight and expert testimony in legal and regulatory proceedings.
+    
+    Achievements/Tasks
+        - How to understand the business of a given company and present processes.
+        - Write a business plan.
+        - Create a P/L and budget report.
+        - Conduct analysis, write and present reports.
+        - Use excel functions, trend analysis, correlation, regression, pivot tables.
+        - Organize and communicate in groups.
+        - Write business cases, following the requirements and business rules.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+    Business Intelligence Teacher
+    Freelance
+    12/2019 - Present
+    Beirut, Lebanon
+    Achievements/Tasks
+        - Responsible for 6 fixed students teaching them the university course of Business intelligence and the LAB.
+        - Teaching 3 students the course of data management (SQL), project management (MS project) and system analysis and design (MS Visio).
+        - Teaching 3 students the JAVA course
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+    Front-End Developer
+    Ecomz
+    11/2019 - 09/2020
+    Beirut, Lebanon
+    Ecomz is an end-to-end eCommerce store builder with multi-channel capabilities, allowing merchants to easily create their own
+    online store, add their products, customize their website, and start selling everywhere in no time.                            
+    Achievements/Tasks
+        - Managed full-cycle design tasks, handling all phases from conception to completion while maintaining guideline throughout.
+        - Enhanced user experience and accomplish webpages objectives by creating site structure, navigation, page optimization and graphic integration.
+        - Enable site-wide promotions by programming HTML5 canvases to animate particles on web backgrounds.
+        - Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.
+        - Developed designs to meet specific requirements such as quick- loading sites with particular layouts.
+        - Owned more than 7-10 projects per week from initial research and conceptual design through testing and implementation phases.
+        - Designed the KWIKBY interface and maintained both corporate and client websites.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+    Data/Business Analyst
+    Student Assistant, LIU (Lebanese International University)
+    10/2019 - 12/2020
+    Tripoli, Lebanon                            
+    Achievements/Tasks
+        - Synthesized current business intelligence data to produce reports and polished presentations, highlighting findings and recommending changes.
+        - Analyzed SAP transactions to build logical BI model for real-time reporting needs.
+        - Worked on Informatica PowerCenter as an ETL tool.
+        - Performed detailed data analysis (i.e. determine the structure, content and quality of the data through examination of source systems and data samples).
+        - Develop and provide training to university students on basic utilization of Tableau, SQL, Java and advanced proficiencies to provide backup to this.
+        - Led development of 7 database projects for students & completed projects on time
+        - Recommended data standardization and usage for protection of data integrity
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+    Accountant and Operation Manager
+    Vee American Coffee Shop, 5 Branches (Zgharta, Ehden - 2 branches, Byblos, Amioun)
+    2017 - 2020
+    Lebanon
+    Achievements/Tasks
+        - Set up and improved accounting systems and processes to meet business needs and maximize effectiveness of operations.
+        - Monitored 6-employee team while handling day to day accounting processes and financial accuracy.
+        - Completed daily cash functions like account tracking, payroll and wage allocations, budgeting and all types of cash 
+        and banking reconciliations. Collected and arranged data into OMEGA financial management system.
+        - Partnered with auditors on annual audits and realized compliance with governmental tax guidelines.
+
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+
+EDUCATION:
+
+    Bachelor’s degree of Management Information Systems
+    2018 - 2018
+    Lebanese International University of Tripoli
+
+    Baccalaureate of Accounting and Science
+    2015 - 2018
+    Institution of Saint-Antoine of Zgharta
+
+    Certificate of completion in Data Analysis Track
+    Udacity 1MAC
+
+    Certificate of completion in Fundamentals of Business Analysis
+    UDEMY
+    
+    Certificate of completion in Scrum Fundamentals
+    UDEMY
+    
+    Certificate of completion in Project Management Professional
+    Lebanese American university
+
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+
+LANGUAGES:
+
+    Arabic
+    Native or bilingual proficiency
+
+    English
+    Full professionall profeciency
+
+    French
+    Full professionall profeciency
+
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
